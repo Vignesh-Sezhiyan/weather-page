@@ -1,17 +1,10 @@
 # Project Title
-
+# Live Weather update app
 Small Pizza app Template Using React Js
-
-## Description
-
-By using React and bootstrap I created an Good Looking Pizza app at Biginner level.
-
 
 ## Getting Started
 
 ### Dependencies
-
-* react bootstrap
 * bootstrap
 * react-dom
 
